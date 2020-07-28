@@ -1,0 +1,7 @@
+./back/.bundle
+./back/tmp/*
+
+./front/node_modules
+./front/.config
+./front/.npm
+./front/.nuxt
